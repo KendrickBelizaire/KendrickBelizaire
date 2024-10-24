@@ -18,7 +18,7 @@
 
 💬 Ask me about **Java, Python, MySQL... or anything**
 
-⚡ Fun fact ** I can wiggle my ears independently and it always gets a laugh at parties!**
+⚡ Fun fact ** I absolutely love Romantic Comedies**
 
  </div>
  
