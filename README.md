@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Fitness App**
+ 🔭 I’m currently working on **a Car Booking Website**
  
- 🌱 I’m currently learning **Slint, Docker, AWS**
+ 🌱 I’m currently learning **React and AWS**
 
 💬 Ask me about **Java, Python, MySQL... or anything**
 
